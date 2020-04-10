@@ -1,0 +1,4 @@
+!Workspace
+!Version 1000
+!Charset WindowsCyrillic
+Run Application "mainCode/Lukoil.MBX"
